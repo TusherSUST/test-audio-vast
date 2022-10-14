@@ -30,7 +30,7 @@
             </TrackingEvents>
             <Duration>00:00:16</Duration>
             <MediaFiles>
-              <MediaFile id="5241" delivery="progressive" type="MP4" width="1280" height="720" scalable="1" maintainAspectRatio="1">
+              <MediaFile id="5241" delivery="progressive" bitrate="2000" type="MP4" width="1280" height="720" scalable="1" maintainAspectRatio="1">
                 <![CDATA[https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3]]>
               </MediaFile>
             </MediaFiles>
