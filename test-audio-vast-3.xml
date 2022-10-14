@@ -1,0 +1,52 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="4.1">
+  <Ad id="46540" sequence="1" adType="audio">
+    <InLine>
+      <AdSystem version="2.73.0">Targetspot</AdSystem>
+      <AdTitle>ts-15sec.mp3</AdTitle>
+      <Impression id="Targetspot"><![CDATA[https://trackingeventspa.tsbluebox.com/impression/1.0/1783b2f44bf347b3a765631e581a6123.gif?clearingPrice=${AUCTION_PRICE}&adServingId=passport-1783b2f4-4bf3-47b3-a765-631e581a6123&d=eyJSZXF1ZXN0SWQiOiIxNzgzYjJmNDRiZjM0N2IzYTc2NTYzMWU1ODFhNjEyMyIsIlB1Ymxpc2hlcklkIjoxNjMsIkNoYW5uZWxJZCI6MTA0MDI2OTIsIkFkUGxhY2VtZW50IjoxLCJDb3VudHJ5Q29kZSI6IkRFIiwiUHJpY2UiOjAuOTc1LCJQcmljZUN1cnJlbmN5IjoiVVNEIiwiUmVxdWVzdERhdGUiOiIyMDIyLTEwLTE0VDA5OjIxOjMzLjE0OTY5NzlaIiwiRXhwaXJ5RGF0ZSI6IjIwMjItMTAtMTRUMTE6MjE6MzMuMTQ5Njk3OVoifQ]]></Impression>
+      <AdServingId>passport-1783b2f4-4bf3-47b3-a765-631e581a6123</AdServingId>
+      <Category>IAB3-1</Category>
+      <Description>ts-15sec.mp3</Description>
+      <Advertiser>targetspot.de</Advertiser>
+      <Pricing model="CPM" currency="USD">0.975</Pricing>
+      <Expires>7200</Expires>
+      <Creatives>
+        <Creative id="46540">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="audio/mpeg" width="0" height="0" id="46540" bitrate="32000" scalable="false" maintainAspectRatio="true"><![CDATA[https://cdn.targetspot.com/passport/audio/e/e6e3/e6e380fdbf399405f75955c960f40f6e.mp3]]></MediaFile>
+              <MediaFile delivery="progressive" type="audio/mpeg" width="0" height="0" id="46540" bitrate="64000" scalable="false" maintainAspectRatio="true"><![CDATA[https://cdn.targetspot.com/passport/audio/f/fb06/fb06a51b0c56815181d7652b04acc462.mp3]]></MediaFile>
+              <MediaFile delivery="progressive" type="audio/mpeg" width="0" height="0" id="46540" bitrate="128000" scalable="false" maintainAspectRatio="true"><![CDATA[https://cdn.targetspot.com/passport/audio/9/9cfd/9cfd4c14f7a928525ef74fa3a5c84dcc.mp3]]></MediaFile>
+              <MediaFile delivery="progressive" type="audio/mpeg" width="0" height="0" id="46540" bitrate="160000" scalable="false" maintainAspectRatio="true"><![CDATA[https://cdn.targetspot.com/passport/audio/c/c093/c0933230d46dfa476d0e6006382d3945.mp3]]></MediaFile>
+              <MediaFile delivery="progressive" type="audio/mpeg" width="0" height="0" id="46540" bitrate="192000" scalable="false" maintainAspectRatio="true"><![CDATA[https://cdn.targetspot.com/passport/audio/c/c0c4/c0c459af9fd35bf40c59ee4ef49adb2e.mp3]]></MediaFile>
+              <MediaFile delivery="progressive" type="audio/mpeg" width="0" height="0" id="46540" bitrate="256000" scalable="false" maintainAspectRatio="true"><![CDATA[https://cdn.targetspot.com/passport/audio/9/9982/998202744211defa6186aea3f7bef0ba.mp3]]></MediaFile>
+              <MediaFile delivery="progressive" type="audio/mpeg" width="0" height="0" id="46540" bitrate="320000" scalable="false" maintainAspectRatio="true"><![CDATA[https://cdn.targetspot.com/passport/audio/a/a99b/a99b2dfa8a3b02d8519247852a21bda8.mp3]]></MediaFile>
+            </MediaFiles>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://trackingeventspa.tsbluebox.com/quartile0/1.0/1783b2f44bf347b3a765631e581a6123.gif?adServingId=passport-1783b2f4-4bf3-47b3-a765-631e581a6123&d=eyJSZXF1ZXN0SWQiOiIxNzgzYjJmNDRiZjM0N2IzYTc2NTYzMWU1ODFhNjEyMyIsIlB1Ymxpc2hlcklkIjoxNjMsIkNoYW5uZWxJZCI6MTA0MDI2OTIsIkFkUGxhY2VtZW50IjoxLCJDb3VudHJ5Q29kZSI6IkRFIiwiUmVxdWVzdERhdGUiOiIyMDIyLTEwLTE0VDA5OjIxOjMzLjE0OTY5NzlaIiwiRXhwaXJ5RGF0ZSI6IjIwMjItMTAtMTRUMTE6MjE6MzMuMTQ5Njk3OVoifQ]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[https://trackingeventspa.tsbluebox.com/quartile25/1.0/1783b2f44bf347b3a765631e581a6123.gif?adServingId=passport-1783b2f4-4bf3-47b3-a765-631e581a6123&d=eyJSZXF1ZXN0SWQiOiIxNzgzYjJmNDRiZjM0N2IzYTc2NTYzMWU1ODFhNjEyMyIsIlB1Ymxpc2hlcklkIjoxNjMsIkNoYW5uZWxJZCI6MTA0MDI2OTIsIkFkUGxhY2VtZW50IjoxLCJDb3VudHJ5Q29kZSI6IkRFIiwiUmVxdWVzdERhdGUiOiIyMDIyLTEwLTE0VDA5OjIxOjMzLjE0OTY5NzlaIiwiRXhwaXJ5RGF0ZSI6IjIwMjItMTAtMTRUMTE6MjE6MzMuMTQ5Njk3OVoifQ]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[https://trackingeventspa.tsbluebox.com/quartile50/1.0/1783b2f44bf347b3a765631e581a6123.gif?adServingId=passport-1783b2f4-4bf3-47b3-a765-631e581a6123&d=eyJSZXF1ZXN0SWQiOiIxNzgzYjJmNDRiZjM0N2IzYTc2NTYzMWU1ODFhNjEyMyIsIlB1Ymxpc2hlcklkIjoxNjMsIkNoYW5uZWxJZCI6MTA0MDI2OTIsIkFkUGxhY2VtZW50IjoxLCJDb3VudHJ5Q29kZSI6IkRFIiwiUmVxdWVzdERhdGUiOiIyMDIyLTEwLTE0VDA5OjIxOjMzLjE0OTY5NzlaIiwiRXhwaXJ5RGF0ZSI6IjIwMjItMTAtMTRUMTE6MjE6MzMuMTQ5Njk3OVoifQ]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[https://trackingeventspa.tsbluebox.com/quartile75/1.0/1783b2f44bf347b3a765631e581a6123.gif?adServingId=passport-1783b2f4-4bf3-47b3-a765-631e581a6123&d=eyJSZXF1ZXN0SWQiOiIxNzgzYjJmNDRiZjM0N2IzYTc2NTYzMWU1ODFhNjEyMyIsIlB1Ymxpc2hlcklkIjoxNjMsIkNoYW5uZWxJZCI6MTA0MDI2OTIsIkFkUGxhY2VtZW50IjoxLCJDb3VudHJ5Q29kZSI6IkRFIiwiUmVxdWVzdERhdGUiOiIyMDIyLTEwLTE0VDA5OjIxOjMzLjE0OTY5NzlaIiwiRXhwaXJ5RGF0ZSI6IjIwMjItMTAtMTRUMTE6MjE6MzMuMTQ5Njk3OVoifQ]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://trackingeventspa.tsbluebox.com/quartile100/1.0/1783b2f44bf347b3a765631e581a6123.gif?adServingId=passport-1783b2f4-4bf3-47b3-a765-631e581a6123&d=eyJSZXF1ZXN0SWQiOiIxNzgzYjJmNDRiZjM0N2IzYTc2NTYzMWU1ODFhNjEyMyIsIlB1Ymxpc2hlcklkIjoxNjMsIkNoYW5uZWxJZCI6MTA0MDI2OTIsIkFkUGxhY2VtZW50IjoxLCJDb3VudHJ5Q29kZSI6IkRFIiwiUmVxdWVzdERhdGUiOiIyMDIyLTEwLTE0VDA5OjIxOjMzLjE0OTY5NzlaIiwiRXhwaXJ5RGF0ZSI6IjIwMjItMTAtMTRUMTE6MjE6MzMuMTQ5Njk3OVoifQ]]></Tracking>
+              <Tracking event="bidWin"><![CDATA[http://xurl.tsbluebox.com/?campaignid=6136&flightid=23159&requestid=1783b2f44bf347b3a765631e581a6123&instanceid=4&listenerid=0df0bb1b-fd0f-4022-b8f7-7ef07f205a01&useragent=Mozilla/5.0 (Linux; Android 12; SM-G780G Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/386.0.0.35.108;]&ip=31.150.12.0&preroll=1&publisherid=163&radioid=10402692&providerid=27&provideradid=46540&endpoint=openrtb&endpointversion=2.4&countrycode=DE&v2=1&popId=3&adplacement=1&advertiser=targetspot.de&deal=&channeltype=1&bidcache=0&eventtype=bidwin&biddate=1665739293&bidcpm=0.975&bidcurrency=USD&bidcpmtruncated=0.9&auctionprice=${AUCTION_PRICE}&lossreason=${AUCTION_LOSS}]]></Tracking>
+              <Tracking event="bidLoss"><![CDATA[http://xurl.tsbluebox.com/?campaignid=6136&flightid=23159&requestid=1783b2f44bf347b3a765631e581a6123&instanceid=4&listenerid=0df0bb1b-fd0f-4022-b8f7-7ef07f205a01&useragent=Mozilla/5.0 (Linux; Android 12; SM-G780G Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/386.0.0.35.108;]&ip=31.150.12.0&preroll=1&publisherid=163&radioid=10402692&providerid=27&provideradid=46540&endpoint=openrtb&endpointversion=2.4&countrycode=DE&v2=1&popId=3&adplacement=1&advertiser=targetspot.de&deal=&channeltype=1&bidcache=0&eventtype=bidloss&biddate=1665739293&bidcpm=0.975&bidcurrency=USD&bidcpmtruncated=0.9&auctionprice=${AUCTION_PRICE}&lossreason=${AUCTION_LOSS}]]></Tracking>
+            </TrackingEvents>
+          </Linear>
+        </Creative>
+        <Creative id="46540">
+          <CompanionAds required="any">
+            <Companion width="300" height="250" assetWidth="-1" assetHeight="-1" expandedWidth="-1" expandedHeight="-1" renderingMode="default">
+              <StaticResource creativeType="image/png"><![CDATA[https://passport.targetspot.com/Files/Images/CreativeCompanions/24628.png]]></StaticResource>
+              <CompanionClickThrough>https://trackingeventspa.tsbluebox.com/click/1.0/1783b2f44bf347b3a765631e581a6123.gif?adServingId=passport-1783b2f4-4bf3-47b3-a765-631e581a6123&amp;d=eyJSZXF1ZXN0SWQiOiIxNzgzYjJmNDRiZjM0N2IzYTc2NTYzMWU1ODFhNjEyMyIsIlB1Ymxpc2hlcklkIjoxNjMsIkNoYW5uZWxJZCI6MTA0MDI2OTIsIkFkUGxhY2VtZW50IjoxLCJDb3VudHJ5Q29kZSI6IkRFIiwiQ2xpY2tVcmwiOiJodHRwczovL3d3dy50YXJnZXRzcG90LmNvbSIsIlJlcXVlc3REYXRlIjoiMjAyMi0xMC0xNFQwOToyMTozMy4xNDk2OTc5WiIsIkV4cGlyeURhdGUiOiIyMDIyLTEwLTE0VDExOjIxOjMzLjE0OTY5NzlaIiwiUGFzc3BvcnRCYW5uZXJEYXRhIjp7IkNvbXBhbmlvbklkIjoyNDYyOH19</CompanionClickThrough>
+              <TrackingEvents>
+                <Tracking event="creativeView" />
+                <Tracking event="creativeView"><![CDATA[https://trackingeventspa.tsbluebox.com/view/1.0/1783b2f44bf347b3a765631e581a6123.gif?adServingId=passport-1783b2f4-4bf3-47b3-a765-631e581a6123&d=eyJSZXF1ZXN0SWQiOiIxNzgzYjJmNDRiZjM0N2IzYTc2NTYzMWU1ODFhNjEyMyIsIlB1Ymxpc2hlcklkIjoxNjMsIkNoYW5uZWxJZCI6MTA0MDI2OTIsIkFkUGxhY2VtZW50IjoxLCJDb3VudHJ5Q29kZSI6IkRFIiwiQmFubmVyU2l6ZSI6eyJXaWR0aCI6MzAwLCJIZWlnaHQiOjI1MH0sIlJlcXVlc3REYXRlIjoiMjAyMi0xMC0xNFQwOToyMTozMy4xNDk2OTc5WiIsIkV4cGlyeURhdGUiOiIyMDIyLTEwLTE0VDExOjIxOjMzLjE0OTY5NzlaIiwiUGFzc3BvcnRCYW5uZXJEYXRhIjp7IkNvbXBhbmlvbklkIjoyNDYyOH19]]></Tracking>
+              </TrackingEvents>
+            </Companion>
+          </CompanionAds>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
